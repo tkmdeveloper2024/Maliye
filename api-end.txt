@@ -1,0 +1,1 @@
+{{maliye}}/api/zahmet/wezipeler/count/by-gornush
